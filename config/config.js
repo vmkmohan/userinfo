@@ -8,5 +8,5 @@ module.exports = {
         "port":":27017",
         "db":"/user_new"
     },
-    "addSeedsData": true
+    "addSeedsData": false
 }
