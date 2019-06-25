@@ -1,5 +1,5 @@
 # User infromation with user role
-This application is for user information with user role refferenced user role id
+This application is for user information with user role referenced user role id
 
 ### Version
 1.0.0
