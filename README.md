@@ -1,4 +1,4 @@
-# user infromation with user role
+# User infromation with user role
 This application is for user information with user role refferenced user role id
 
 ### Version
